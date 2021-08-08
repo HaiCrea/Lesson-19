@@ -1,0 +1,42 @@
+*{margin: 0px; padding: 0px;}
+#all{
+	width: 960px;
+	min-height: 100px;
+	background: red;
+	margin: auto;
+	/*display: flex;*/
+}
+/*#trai{
+	width: 500px;
+	height: 500px;
+	background: blue;
+	float: left;
+	
+}
+#phai{
+	width: 400px;
+	height: 600px;
+	background: yellow;
+	float: left;
+
+}*/
+
+header{
+	width: 900px;
+	height: 100px;
+	background: #61FFAB;
+	margin: auto;
+	border: 5px solid #FFFC19;
+	padding: 10px;
+	box-sizing: border-box;
+}
+nav{
+	width: 900px;
+	height: 70px;
+	background: #61FFAB;
+	margin: auto;
+	border: 5px solid #FFFC19;
+	padding: 10px;
+	box-sizing: border-box;
+	margin-top: 20px;
+}
